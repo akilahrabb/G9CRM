@@ -1,4 +1,4 @@
-package com.NextBaseCRM.tests;
+package com.NextBaseCRM.tests.UserStory4;
 
 import com.NextBaseCRM.utilities.WebDriverFactory;
 import org.openqa.selenium.By;
