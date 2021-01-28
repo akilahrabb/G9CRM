@@ -44,17 +44,23 @@ marketing17@cybertekschool.com
 marketing18@cybertekschool.com
 
 NEGATIVE USERNAMES:
-helpdesk14cybertekschool.com
-15hr@cybertekschool.com
-marketingg16@cybertekschool.com
+"helpdesk@cybertekschool.com",
+"hr@cybertekschool.com",
+"marketingg16cybertekschool.com",
+
          */
-        ArrayList<String> positiveDataSet = new ArrayList<String>(Arrays.asList("helpdesk17@cybertekschool.com",
+        ArrayList<String> positiveDataSet = new ArrayList<String>(Arrays.asList(
                 "helpdesk17@cybertekschool.com",
                 "helpdesk18@cybertekschool.com",
                 "hr17@cybertekschool.com",
                 "hr18@cybertekschool.com",
                 "marketing17@cybertekschool.com",
-                "marketing18@cybertekschool.com")) ;
+                "marketing18@cybertekschool.com",
+
+                //negative data
+                "helpdesk@cybertekschool.com",
+                "hr@cybertekschool.com",
+                "marketingg16cybertekschool.com" )) ;
 
         String password = "UserUser";
 

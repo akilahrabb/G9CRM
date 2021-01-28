@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="CRMGroup9" />
         <module name="CRM-G9" />
+        <module name="G9CRM" />
       </profile>
     </annotationProcessing>
   </component>
